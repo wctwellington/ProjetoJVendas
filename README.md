@@ -1,0 +1,2 @@
+# ProjetoJVendas
+Supermarket management System
